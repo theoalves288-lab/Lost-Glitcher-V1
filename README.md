@@ -1,2 +1,2 @@
-# Lost-Glitcher-V1
+# Lost-Glitcher
 Lost Glitcher Script.
